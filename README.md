@@ -70,6 +70,7 @@ javac -d out src/main/java/reto/*.java
 java -cp out reto.RetoRecorridos
 ```
 
-## Autor
+## Autores
 
-Tenorio Ronquillo Jonathan Sebastian
+Tenorio Ronquillo Jonathan Sebastian\
+Manobanda Puaquiza Italo Esteban 
